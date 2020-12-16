@@ -45,6 +45,8 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 (Área destinada a dados sobre o autor do projeto)
 
-Seu nome - [@SeuLinkedin](https://www.linkedin.com/in/seuLinkedin) - seuemail@gmail.com
+Seu nome - [in/seuLinkedin](https://www.linkedin.com/in/seuLinkedin) - seuemail@gmail.com
+
 Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
